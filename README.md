@@ -4,7 +4,7 @@
 
 ## Models
 - Post -> date:date rational:text
-- User -> Deavise
+- User -> Devise
 - AdminUser -> STI
 
 ## Features:
@@ -12,7 +12,7 @@
 - SMS Sending -> link to approval or overtime input
 - Administrate admin dashboard
 - Email summary to managers for approval
-- Need to be documanted if employee did not log overtime
+- Need to be documented if employee did not log overtime
 
 ## UI:
 - Bootstrap -> formatting
