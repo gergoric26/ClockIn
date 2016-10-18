@@ -16,3 +16,5 @@
 
 ## UI:
 - Bootstrap -> formatting
+- Icons from Font Awesome
+- Update the styles for forms
